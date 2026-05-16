@@ -1,0 +1,532 @@
+﻿1,FEC ID,STATE,STATE ABBREVIATION,LAST NAME;  FIRST,TOTAL VOTES,GENERAL RESULTS,TOTAL VOTES #,GENERAL %
+2,P80002801,Alabama,AL,McCain; John,,1266546,,0.6
+3,P80003338,Alabama,AL,Obama; Barack,,813479,,0.39
+4,P20000527,Alabama,AL,Nader; Ralph,,6788,,0
+5,P80005580,Alabama,AL,Barr; Bob,,4991,,0
+6,P80005499,Alabama,AL,Baldwin; Chuck,,4310,,0
+7,n/a,Alabama,AL,Scattered ,,3705,,0
+8,n/a,Alabama,AL,,Total State Votes: ,2099819,2099819,
+9,P80002801,Alaska,AK,McCain; John,,193841,,0.59
+10,P80003338,Alaska,AK,Obama; Barack,,123594,,0.38
+11,P20000527,Alaska,AK,Nader; Ralph,,3783,,0.01
+12,n/a,Alaska,AK,Scattered ,,1730,,0.01
+13,P80005499,Alaska,AK,Baldwin; Chuck,,1660,,0.01
+14,P80005580,Alaska,AK,Barr; Bob,,1589,,0
+15,n/a,Alaska,AK,,Total State Votes: ,326197,326197,
+16,P80002801,Arizona,AZ,McCain; John,,1230111,,0.54
+17,P80003338,Arizona,AZ,Obama; Barack,,1034707,,0.45
+18,P80005580,Arizona,AZ,Barr; Bob,,12555,,0.01
+19,P20000527,Arizona,AZ,Nader; Ralph,,11301,,0
+20,P80004930,Arizona,AZ,McKinney; Cynthia,,3406,,0
+21,P80005499,Arizona,AZ,Baldwin; Chuck,,1371,,0
+22,n/a,Arizona,AZ,Jay; Charles,,16,,0
+23,P80005119,Arizona,AZ,Allen; Jonathan,,8,,0
+24,n/a,Arizona,AZ,,Total State Votes: ,2293475,2293475,
+25,P80002801,Arkansas,AR,McCain; John,,638017,,0.59
+26,P80003338,Arkansas,AR,Obama; Barack,,422310,,0.39
+27,P20000527,Arkansas,AR,Nader; Ralph,,12882,,0.01
+28,P80005580,Arkansas,AR,Barr; Bob,,4776,,0
+29,P80005499,Arkansas,AR,Baldwin; Chuck,,4023,,0
+30,P80004930,Arkansas,AR,McKinney; Cynthia,,3470,,0
+31,P80005572,Arkansas,AR,La Riva; Gloria,,1139,,0
+32,n/a,Arkansas,AR,,Total State Votes: ,1086617,1086617,
+33,P80003338,California,CA,Obama; Barack,,8274473,,0.61
+34,P80002801,California,CA,McCain; John,,5011781,,0.37
+35,P20000527,California,CA,Nader; Ralph,,108381,,0.01
+36,P80005580,California,CA,Barr; Bob,,67582,,0
+37,P60003076,California,CA,Keyes; Alan,,40673,,0
+38,P80004930,California,CA,McKinney; Cynthia,,38774,,0
+39,P80000748,California,CA,Paul; Ron,,17006,,0
+40,P80005499,California,CA,Baldwin; Chuck,,3145,,0
+41,P60004454,California,CA,Harris; James,,49,,0
+42,n/a,California,CA,Moore; Frank,,36,,0
+43,n/a,California,CA,,Total State Votes: ,13561900,13561900,
+44,P80003338,Colorado,CO,Obama; Barack,,1288633,,0.54
+45,P80002801,Colorado,CO,McCain; John,,1073629,,0.45
+46,P20000527,Colorado,CO,Nader; Ralph,,13352,,0.01
+47,P80005580,Colorado,CO,Barr; Bob,,10898,,0
+48,P80005499,Colorado,CO,Baldwin; Chuck,,6233,,0
+49,P60003076,Colorado,CO,Keyes; Alan,,3051,,0
+50,P80004930,Colorado,CO,McKinney; Cynthia,,2822,,0
+51,P80003460,Colorado,CO,McEnulty; Frank Edward,,829,,0
+52,n/a,Colorado,CO,Jay; Charles,,598,,0
+53,P80005119,Colorado,CO,Allen; Jonathan E.,,348,,0
+54,P80005655,Colorado,CO,Stevens; Thomas Robert,,336,,0
+55,P80005275,Colorado,CO,Moore; Brian,,226,,0
+56,P80005572,Colorado,CO,La Riva; Gloria,,158,,0
+57,P60004454,Colorado,CO,Harris; James,,154,,0
+58,n/a,Colorado,CO,Lyttle; Bradford,,110,,0
+59,n/a,Colorado,CO,Amondson; Gene C.,,85,,0
+60,n/a,Colorado,CO,,Total State Votes: ,2401462,2401462,
+61,P80003338,Connecticut,CT,Obama; Barack,,997772,,0.61
+62,P80002801,Connecticut,CT,McCain; John,,629428,,0.38
+63,P20000527,Connecticut,CT,Nader; Ralph,,19162,,0.01
+64,P80005499,Connecticut,CT,Baldwin; Chuck,,311,,0
+65,P80004930,Connecticut,CT,McKinney; Cynthia,,90,,0
+66,P80005275,Connecticut,CT,Moore; Brian,,19,,0
+67,P80005481,Connecticut,CT,Calero; Roger,,15,,0
+68,n/a,Connecticut,CT,,Total State Votes: ,1646797,1646797,
+69,P80003338,Delaware,DE,Obama; Barack,,255459,,0.62
+70,P80002801,Delaware,DE,McCain; John,,152374,,0.37
+71,P20000527,Delaware,DE,Nader; Ralph,,2401,,0.01
+72,P80005580,Delaware,DE,Barr; Bob,,1109,,0
+73,P80005499,Delaware,DE,Baldwin; Chuck,,626,,0
+74,P80004930,Delaware,DE,McKinney; Cynthia A.,,385,,0
+75,P80005481,Delaware,DE,Calero; Roger,,58,,0
+76,n/a,Delaware,DE,,Total State Votes: ,412412,412412,
+77,P80003338,District of Columbia,DC,Obama; Barack,,245800,,0.92
+78,P80002801,District of Columbia,DC,McCain; John,,17367,,0.07
+79,n/a,District of Columbia,DC,Scattered ,,1138,,0
+80,P20000527,District of Columbia,DC,Nader; Ralph,,958,,0
+81,P80004930,District of Columbia,DC,McKinney; Cynthia,,590,,0
+82,n/a,District of Columbia,DC,,Total State Votes: ,265853,265853,
+83,P80003338,Florida,FL,Obama; Barack,,4282074,,0.51
+84,P80002801,Florida,FL,McCain; John,,4045624,,0.48
+85,P20000527,Florida,FL,Nader; Ralph,,28124,,0
+86,P80005580,Florida,FL,Barr; Bob,,17218,,0
+87,P80005499,Florida,FL,Baldwin; Chuck,,7915,,0
+88,P80004930,Florida,FL,McKinney; Cynthia,,2887,,0
+89,P60003076,Florida,FL,Keyes; Alan,,2550,,0
+90,P80005572,Florida,FL,La Riva; Gloria,,1516,,0
+91,n/a,Florida,FL,Jay; Charles,,795,,0
+92,P60004454,Florida,FL,Harris; James,,533,,0
+93,P80005655,Florida,FL,Stevens; Thomas Robert,,419,,0
+94,P80005275,Florida,FL,Moore; Brian,,405,,0
+95,n/a,Florida,FL,Nettles; Gary,,391,,0
+96,n/a,Florida,FL,Amondson; Gene,,293,,0
+97,n/a,Florida,FL,,Total State Votes: ,8390744,8390744,
+98,P80002801,Georgia,GA,McCain; John,,2048759,,0.52
+99,P80003338,Georgia,GA,Obama; Barack,,1844123,,0.47
+100,P80005580,Georgia,GA,Barr; Bob,,28731,,0.01
+101,P80005499,Georgia,GA,Baldwin; Chuck,,1402,,0
+102,P20000527,Georgia,GA,Nader; Ralph,,1158,,0
+103,P80004930,Georgia,GA,McKinney; Cynthia,,250,,0
+104,n/a,Georgia,GA,Peroutka; Michael A.,,23,,0
+105,P60004454,Georgia,GA,Harris; James,,20,,0
+106,P80005119,Georgia,GA,Allen; Jonathan,,8,,0
+107,n/a,Georgia,GA,Moore; Frank,,6,,0
+108,n/a,Georgia,GA,Byrne; David C.,,4,,0
+109,n/a,Georgia,GA,Brown; Brian Russell,,2,,0
+110,n/a,Georgia,GA,,Total State Votes: ,3924486,3924486,
+111,P80003338,Hawaii,HI,Obama; Barack,,325871,,0.72
+112,P80002801,Hawaii,HI,McCain; John,,120566,,0.27
+113,P20000527,Hawaii,HI,Nader; Ralph,,3825,,0.01
+114,P80005580,Hawaii,HI,Barr; Bob,,1314,,0
+115,P80005499,Hawaii,HI,Baldwin; Chuck,,1013,,0
+116,P80004930,Hawaii,HI,McKinney; Cynthia,,979,,0
+117,n/a,Hawaii,HI,,Total State Votes: ,453568,453568,
+118,P80002801,Idaho,ID,McCain; John,,403012,,0.62
+119,P80003338,Idaho,ID,Obama; Barack,,236440,,0.36
+120,P20000527,Idaho,ID,Nader; Ralph,,7175,,0.01
+121,P80005499,Idaho,ID,Baldwin; Chuck,,4747,,0.01
+122,P80005580,Idaho,ID,Barr; Bob,,3658,,0.01
+123,P60003076,Idaho,ID,Keyes; Alan,,40,,0
+124,P80004930,Idaho,ID,McKinney; Cynthia,,39,,0
+125,n/a,Idaho,ID,Claus; Santa,,6,,0
+126,P80005275,Idaho,ID,Moore; Brian,,3,,0
+127,n/a,Idaho,ID,Bone; Lawson Mitchell,,1,,0
+128,n/a,Idaho,ID,Reverend MerePeace-MsMere,,1,,0
+129,n/a,Idaho,ID,,Total State Votes: ,655122,655122,
+130,P80003338,Illinois,IL,Obama; Barack,,3419348,,0.62
+131,P80002801,Illinois,IL,McCain; John,,2031179,,0.37
+132,P20000527,Illinois,IL,Nader; Ralph,,30948,,0.01
+133,P80005580,Illinois,IL,Barr; Bob,,19642,,0
+134,P80004930,Illinois,IL,McKinney; Cynthia,,11838,,0
+135,P80005499,Illinois,IL,Baldwin; Charles O.,,8256,,0
+136,n/a,Illinois,IL,Polachek; John Joseph,,1149,,0
+137,n/a,Illinois,IL,Hobbs; Ronald G.,,4,,0
+138,P80003528,Illinois,IL,Allen; Donald K.,,3,,0
+139,n/a,Illinois,IL,Moore; Frank James,,3,,0
+140,P80000748,Illinois,IL,Paul; Ron,,1,,0
+141,n/a,Illinois,IL,,Total State Votes: ,5522371,5522371,
+142,P80003338,Indiana,IN,Obama; Barack,,1374039,,0.5
+143,P80002801,Indiana,IN,McCain; John,,1345648,,0.49
+144,P80005580,Indiana,IN,Barr; Bob,,29257,,0.01
+145,P80005499,Indiana,IN,Baldwin; Chuck,,1024,,0
+146,P20000527,Indiana,IN,Nader; Ralph,,909,,0
+147,P80004930,Indiana,IN,McKinney; Cynthia,,87,,0
+148,P80005523,Indiana,IN,Castle; Darrell L.,,51,,0
+149,P80005275,Indiana,IN,Moore; Brian,,14,,0
+150,n/a,Indiana,IN,Faith; Michael L.,,12,,0
+151,n/a,Indiana,IN,Mottus; Kevin,,9,,0
+152,n/a,Indiana,IN,Bone; Lawson Mitchell,,2,,0
+153,n/a,Indiana,IN,"Kujawski; ""Lou""",,1,,0
+154,n/a,Indiana,IN,Plemons; John Leroy,,1,,0
+155,n/a,Indiana,IN,,Total State Votes: ,2751054,2751054,
+156,P80003338,Iowa,IA,Obama; Barack,,828940,,0.54
+157,P80002801,Iowa,IA,McCain; John,,682379,,0.44
+158,P20000527,Iowa,IA,Nader; Ralph,,8014,,0.01
+159,n/a,Iowa,IA,Scattered ,,6737,,0
+160,P80005580,Iowa,IA,Barr; Bob,,4590,,0
+161,P80005499,Iowa,IA,Baldwin; Chuck,,4445,,0
+162,P80004930,Iowa,IA,McKinney; Cynthia,,1423,,0
+163,P60004454,Iowa,IA,Harris; James,,292,,0
+164,P80005275,Iowa,IA,Moore; Brian,,182,,0
+165,P80005572,Iowa,IA,La Riva; Gloria,,121,,0
+166,n/a,Iowa,IA,,Total State Votes: ,1537123,1537123,
+167,P80002801,Kansas,KS,McCain; John,,699655,,0.57
+168,P80003338,Kansas,KS,Obama; Barack,,514765,,0.42
+169,P20000527,Kansas,KS,Nader; Ralph,,10527,,0.01
+170,P80005580,Kansas,KS,Barr; Bob,,6706,,0.01
+171,P80005499,Kansas,KS,Baldwin; Chuck,,4148,,0
+172,P80004930,Kansas,KS,McKinney; Cynthia A.,,35,,0
+173,P60003076,Kansas,KS,Keyes; Alan,,31,,0
+174,P80005119,Kansas,KS,Allen; Jonathan E.,,2,,0
+175,n/a,Kansas,KS,Moore; Frank,,2,,0
+176,P60003530,Kansas,KS,Judd; Keith Russell,,1,,0
+177,n/a,Kansas,KS,,Total State Votes: ,1235872,1235872,
+178,P80002801,Kentucky,KY,McCain; John,,1048462,,0.57
+179,P80003338,Kentucky,KY,Obama; Barack,,751985,,0.41
+180,P20000527,Kentucky,KY,Nader; Ralph,,15378,,0.01
+181,P80005580,Kentucky,KY,Barr; Bob,,5989,,0
+182,P80005499,Kentucky,KY,Baldwin; Chuck,,4694,,0
+183,n/a,Kentucky,KY,Habermehl; Leonard C.,,57,,0
+184,P60003076,Kentucky,KY,Keyes; Alan,,27,,0
+185,n/a,Kentucky,KY,Mills; Billy,,18,,0
+186,P80005275,Kentucky,KY,Moore; Brian,,7,,0
+187,P80005119,Kentucky,KY,Allen; Jonathan,,1,,0
+188,P60003530,Kentucky,KY,Judd; Keith Russell,,1,,0
+189,n/a,Kentucky,KY,Upchurch; Shelley Renée,,1,,0
+190,n/a,Kentucky,KY,,Total State Votes: ,1826620,1826620,
+191,P80002801,Louisiana,LA,McCain; John,,1148275,,0.59
+192,P80003338,Louisiana,LA,Obama; Barack,,782989,,0.4
+193,P80000748,Louisiana,LA,"Paul; ""Ron""",,9368,,0
+194,P80004930,Louisiana,LA,McKinney; Cynthia,,9187,,0
+195,P20000527,Louisiana,LA,Nader; Ralph,,6997,,0
+196,P80005499,Louisiana,LA,Baldwin; Chuck,,2581,,0
+197,P60004454,Louisiana,LA,Harris; James,,735,,0
+198,P80005572,Louisiana,LA,La Riva; Gloria,,354,,0
+199,n/a,Louisiana,LA,Amondson; Gene C.,,275,,0
+200,n/a,Louisiana,LA,,Total State Votes: ,1960761,1960761,
+201,P80003338,Maine,ME,Obama; Barack,,421923,,0.58
+202,P80002801,Maine,ME,McCain; John,,295273,,0.4
+203,P20000527,Maine,ME,Nader; Ralph,,10636,,0.01
+204,P80004930,Maine,ME,McKinney; Cynthia,,2900,,0
+205,P80005580,Maine,ME,Barr; Bob,,251,,0
+206,P80005499,Maine,ME,Baldwin; Chuck,,177,,0
+207,P80005119,Maine,ME,Allen; Jonathan,,3,,0
+208,n/a,Maine,ME,,Total State Votes: ,731163,731163,
+209,P80003338,Maryland,MD,Obama; Barack,,1629467,,0.62
+210,P80002801,Maryland,MD,McCain; John,,959862,,0.36
+211,P20000527,Maryland,MD,Nader; Ralph,,14713,,0.01
+212,P80005580,Maryland,MD,Barr; Bob,,9842,,0
+213,n/a,Maryland,MD,Scattered ,,9043,,0
+214,P80004930,Maryland,MD,McKinney; Cynthia,,4747,,0
+215,P80005499,Maryland,MD,Baldwin; Chuck,,3760,,0
+216,P60003076,Maryland,MD,Keyes; Alan,,103,,0
+217,P80003528,Maryland,MD,Allen; Donald K.,,17,,0
+218,n/a,Maryland,MD,Taylor; Blaine,,12,,0
+219,P80005275,Maryland,MD,Moore; Brian,,10,,0
+220,P00003962,Maryland,MD,Schriner; Joe,,8,,0
+221,n/a,Maryland,MD,Starr; Lynne A.,,4,,0
+222,n/a,Maryland,MD,Heupel; RaeDeen R.,,2,,0
+223,n/a,Maryland,MD,Moore; Frank,,2,,0
+224,P80004849,Maryland,MD,Aparicio; Jose M.,,1,,0
+225,n/a,Maryland,MD,Brown; Theodis (Ted); Sr.,,1,,0
+226,n/a,Maryland,MD,Hobbs; Ronald G.,,1,,0
+227,n/a,Maryland,MD,Jay; Charles,,1,,0
+228,n/a,Maryland,MD,,Total State Votes: ,2631596,2631596,
+229,P80003338,Massachusetts,MA,Obama; Barack,,1904097,,0.62
+230,P80002801,Massachusetts,MA,McCain; John,,1108854,,0.36
+231,P20000527,Massachusetts,MA,Nader; Ralph,,28841,,0.01
+232,n/a,Massachusetts,MA,Scattered ,,14483,,0
+233,P80005580,Massachusetts,MA,Barr; Bob,,13189,,0
+234,P80004930,Massachusetts,MA,McKinney; Cynthia,,6550,,0
+235,P80005499,Massachusetts,MA,Baldwin; Chuck,,4971,,0
+236,n/a,Massachusetts,MA,,Total State Votes: ,3080985,3080985,
+237,P80003338,Michigan,MI,Obama; Barack,,2872579,,0.57
+238,P80002801,Michigan,MI,McCain; John,,2048639,,0.41
+239,P20000527,Michigan,MI,Nader; Ralph,,33085,,0.01
+240,P80005580,Michigan,MI,Barr; Bob,,23716,,0
+241,P80005499,Michigan,MI,Baldwin; Chuck,,14685,,0
+242,P80004930,Michigan,MI,McKinney; Cynthia,,8892,,0
+243,P60003076,Michigan,MI,Keyes; Alan,,129,,0
+244,P80005275,Michigan,MI,Moore; Brian,,41,,0
+245,n/a,Michigan,MI,,Total State Votes: ,5001766,5001766,
+246,P80003338,Minnesota,MN,Obama; Barack,,1573354,,0.54
+247,P80002801,Minnesota,MN,McCain; John,,1275409,,0.44
+248,P20000527,Minnesota,MN,Nader; Ralph,,30152,,0.01
+249,n/a,Minnesota,MN,Scattered ,,9496,,0
+250,P80005580,Minnesota,MN,Barr; Bob,,9174,,0
+251,P80005499,Minnesota,MN,Baldwin; Chuck,,6787,,0
+252,P80004930,Minnesota,MN,McKinney; Cynthia,,5174,,0
+253,P80005481,Minnesota,MN,Calero; Róger,,790,,0
+254,P60003076,Minnesota,MN,Keyes; Alan,,22,,0
+255,P80005275,Minnesota,MN,Moore; Brian,,7,,0
+256,P00003962,Minnesota,MN,Schriner; Joe,,3,,0
+257,n/a,Minnesota,MN,Montgomery; Curtis,,1,,0
+258,n/a,Minnesota,MN,,Total State Votes: ,2910369,2910369,
+259,P80002801,Mississippi,MS,McCain; John,,724597,,0.56
+260,P80003338,Mississippi,MS,Obama; Barack,,554662,,0.43
+261,P20000527,Mississippi,MS,Nader; Ralph,,4011,,0
+262,P80005499,Mississippi,MS,Baldwin; Chuck,,2551,,0
+263,P80005580,Mississippi,MS,Barr; Bob,,2529,,0
+264,P80004930,Mississippi,MS,McKinney; Cynthia A.,,1034,,0
+265,P40003196,Mississippi,MS,Weill; Ted C.,,481,,0
+266,n/a,Mississippi,MS,,Total State Votes: ,1289865,1289865,
+267,P80002801,Missouri,MO,McCain; John,,1445814,,0.49
+268,P80003338,Missouri,MO,Obama; Barack,,1441911,,0.49
+269,P20000527,Missouri,MO,Nader; Ralph,,17813,,0.01
+270,P80005580,Missouri,MO,Barr; Bob,,11386,,0
+271,P80005499,Missouri,MO,Baldwin; Chuck,,8201,,0
+272,P80004930,Missouri,MO,McKinney; Cynthia,,80,,0
+273,n/a,Missouri,MO,,Total State Votes: ,2925205,2925205,
+274,P80002801,Montana,MT,McCain; John,,242763,,0.5
+275,P80003338,Montana,MT,Obama; Barack,,231667,,0.47
+276,P80000748,Montana,MT,Paul; Ron,,10638,,0.02
+277,P20000527,Montana,MT,Nader; Ralph,,3686,,0.01
+278,P80005580,Montana,MT,Barr; Bob,,1355,,0
+279,P80005499,Montana,MT,Baldwin; Chuck,,143,,0
+280,P80004930,Montana,MT,McKinney; Cynthia Ann,,23,,0
+281,n/a,Montana,MT,Heupel; RaeDeen,,12,,0
+282,n/a,Montana,MT,Clemente; Rosa A.,,10,,0
+283,n/a,Montana,MT,Claus; Santa,,3,,0
+284,P80005119,Montana,MT,Allen; Jonathan,,1,,0
+285,P80005804,Montana,MT,Wyatt; Amy Lou,,1,,0
+286,n/a,Montana,MT,,Total State Votes: ,490302,490302,
+287,P80002801,Nebraska,NE,McCain; John,,452979,,0.57
+288,P80003338,Nebraska,NE,Obama; Barack,,333319,,0.42
+289,P20000527,Nebraska,NE,Nader; Ralph,,5406,,0.01
+290,P80005499,Nebraska,NE,Baldwin; Chuck,,2972,,0
+291,n/a,Nebraska,NE,Scattered ,,2837,,0
+292,P80005580,Nebraska,NE,Barr; Bob,,2740,,0
+293,P80004930,Nebraska,NE,McKinney; Cynthia,,1028,,0
+294,n/a,Nebraska,NE,,Total State Votes: ,801281,801281,
+295,P80003338,Nevada,NV,Obama; Barack,,533736,,0.55
+296,P80002801,Nevada,NV,McCain; John,,412827,,0.43
+297,n/a,Nevada,NV,None of These Candidates; ,,6267,,0.01
+298,P20000527,Nevada,NV,Nader; Ralph,,6150,,0.01
+299,P80005580,Nevada,NV,Barr; Bob,,4263,,0
+300,P80005499,Nevada,NV,Baldwin; Chuck,,3194,,0
+301,P80004930,Nevada,NV,McKinney; Cynthia,,1411,,0
+302,n/a,Nevada,NV,,Total State Votes: ,967848,967848,
+303,P80003338,New Hampshire,NH,Obama; Barack,,384826,,0.54
+304,P80002801,New Hampshire,NH,McCain; John,,316534,,0.45
+305,P20000527,New Hampshire,NH,Nader; Ralph,,3503,,0
+306,P80005580,New Hampshire,NH,"Barr; ""Bob""",,2217,,0
+307,P00003392,New Hampshire,NH,Clinton; Hilary,,1124,,0
+308,P80000748,New Hampshire,NH,Paul; Ron,,1092,,0
+309,n/a,New Hampshire,NH,Others; ,,673,,0
+310,P80003080,New Hampshire,NH,Phillies; George,,531,,0
+311,P80005499,New Hampshire,NH,Baldwin; Chuck,,226,,0
+312,P80003353,New Hampshire,NH,Romney; Mitt,,112,,0
+313,P80003478,New Hampshire,NH,Huckabee; Mike,,61,,0
+314,P80004930,New Hampshire,NH,McKinney; Cynthia,,40,,0
+315,n/a,New Hampshire,NH,Palin; Sarah,,18,,0
+316,P20000642,New Hampshire,NH,Clinton; Bill,,13,,0
+317,n/a,New Hampshire,NH,,Total State Votes: ,710970,710970,
+318,P80003338,New Jersey,NJ,Obama; Barack,,2215422,,0.57
+319,P80002801,New Jersey,NJ,McCain; John,,1613207,,0.42
+320,P20000527,New Jersey,NJ,Nader; Ralph,,21298,,0.01
+321,P80005580,New Jersey,NJ,Barr; Bob,,8441,,0
+322,P80005499,New Jersey,NJ,Baldwin; Chuck,,3956,,0
+323,P80004930,New Jersey,NJ,McKinney; Cynthia,,3636,,0
+324,P80005275,New Jersey,NJ,Moore; Brian,,699,,0
+325,P80005077,New Jersey,NJ,"Boss; Jeffrey ""Jeff""",,639,,0
+326,P80005481,New Jersey,NJ,Calero; Roger,,523,,0
+327,P80005572,New Jersey,NJ,La Riva; Gloria,,416,,0
+328,n/a,New Jersey,NJ,,Total State Votes: ,3868237,3868237,
+329,P80003338,New Mexico,NM,Obama; Barack,,472422,,0.57
+330,P80002801,New Mexico,NM,McCain; John,,346832,,0.42
+331,P20000527,New Mexico,NM,Nader; Ralph,,5327,,0.01
+332,P80005580,New Mexico,NM,Barr; Bob,,2428,,0
+333,P80005499,New Mexico,NM,Baldwin; Chuck,,1597,,0
+334,P80004930,New Mexico,NM,McKinney; Cynthia,,1552,,0
+335,n/a,New Mexico,NM,,Total State Votes: ,830158,830158,
+336,P80003338,New York,NY,Obama; Barack,,4804945,,0.63
+338,P80002801,New York,NY,McCain; John,,2752771,,0.36
+343,P20000527,New York,NY,Nader; Ralph,,41249,,0.01
+344,P80005580,New York,NY,Barr; Bob,,19596,,0
+345,P80004930,New York,NY,McKinney; Cynthia,,12801,,0
+346,P80005481,New York,NY,Calero; Roger,,3615,,0
+347,P80005572,New York,NY,La Riva; Gloria,,1639,,0
+348,P80005499,New York,NY,Baldwin; Chuck,,634,,0
+349,P60003076,New York,NY,Keyes; Alan Lee,,35,,0
+350,n/a,New York,NY,White; Jerome S.,,18,,0
+351,P80005275,New York,NY,Moore; Brian,,10,,0
+352,P40002644,New York,NY,Washington; Lanakila,,3,,0
+353,P80005119,New York,NY,Allen; Jonathan,,1,,0
+354,n/a,New York,NY,Skok; Michael,,1,,0
+355,n/a,New York,NY,Scattered,,3613,,0
+356,n/a,New York,NY,,Total State Votes: ,7640931,7640931,
+357,P80003338,North Carolina,NC,Obama; Barack,,2142651,,0.5
+358,P80002801,North Carolina,NC,McCain; John,,2128474,,0.49
+359,P80005580,North Carolina,NC,Barr; Bob,,25722,,0.01
+360,n/a,North Carolina,NC,Scattered ,,12298,,0
+361,P20000527,North Carolina,NC,Nader; Ralph,,1448,,0
+362,P80004930,North Carolina,NC,McKinney; Cynthia,,158,,0
+363,P80005275,North Carolina,NC,Moore; Brian,,38,,0
+364,n/a,North Carolina,NC,,Total State Votes: ,4310789,4310789,
+365,P80002801,North Dakota,ND,McCain; John,,168601,,0.53
+366,P80003338,North Dakota,ND,Obama; Barack,,141278,,0.45
+367,P20000527,North Dakota,ND,Nader; Ralph,,4189,,0.01
+368,P80005580,North Dakota,ND,Barr; Bob,,1354,,0
+369,P80005499,North Dakota,ND,Baldwin; Chuck,,1199,,0
+370,n/a,North Dakota,ND,,Total State Votes: ,316621,316621,
+371,P80003338,Ohio,OH,Obama; Barack,,2940044,,0.52
+372,P80002801,Ohio,OH,McCain; John,,2677820,,0.47
+373,P20000527,Ohio,OH,Nader; Ralph,,42337,,0.01
+374,P80005580,Ohio,OH,Barr; Bob,,19917,,0
+375,P80005499,Ohio,OH,Baldwin; Chuck,,12565,,0
+376,P80004930,Ohio,OH,McKinney; Cynthia,,8518,,0
+377,n/a,Ohio,OH,Duncan; Richard,,3905,,0
+378,P80005275,Ohio,OH,Moore; Brian,,2735,,0
+379,P80003528,Ohio,OH,Allen; Donald K.,,212,,0
+380,P60003076,Ohio,OH,Keyes; Alan L.,,160,,0
+381,P00003962,Ohio,OH,Schriner; Joe,,71,,0
+382,n/a,Ohio,OH,Robertson; Platt,,63,,0
+383,P80005119,Ohio,OH,Allen; Jonathan,,2,,0
+384,P80005796,Ohio,OH,Germalic; James R.,,1,,0
+385,n/a,Ohio,OH,,Total State Votes: ,5708350,5708350,
+386,P80002801,Oklahoma,OK,McCain; John,,960165,,0.66
+387,P80003338,Oklahoma,OK,Obama; Barack,,502496,,0.34
+388,n/a,Oklahoma,OK,,Total State Votes: ,1462661,1462661,
+389,P80003338,Oregon,OR,Obama; Barack,,1037291,,0.57
+390,P80002801,Oregon,OR,McCain; John,,738475,,0.4
+391,P20000527,Oregon,OR,Nader; Ralph,,18614,,0.01
+392,n/a,Oregon,OR,Scattered ,,13613,,0.01
+393,P80005499,Oregon,OR,Baldwin; Chuck,,7693,,0
+394,P80005580,Oregon,OR,Barr; Bob,,7635,,0
+395,P80004930,Oregon,OR,McKinney; Cynthia,,4543,,0
+396,n/a,Oregon,OR,,Total State Votes: ,1827864,1827864,
+397,P80003338,Pennsylvania,PA,Obama; Barack,,3276363,,0.54
+398,P80002801,Pennsylvania,PA,McCain; John,,2655885,,0.44
+399,P20000527,Pennsylvania,PA,Nader; Ralph,,42977,,0.01
+400,P80005580,Pennsylvania,PA,Barr; Bob,,19912,,0
+401,n/a,Pennsylvania,PA,Scattered ,,8180,,0
+402,P00003392,Pennsylvania,PA,Clinton; Hillary,,5014,,0
+403,P80000748,Pennsylvania,PA,Paul; Ron,,3849,,0
+404,P80005499,Pennsylvania,PA,Baldwin; Chuck,,1092,,0
+405,n/a,Pennsylvania,PA,,Total State Votes: ,6013272,6013272,
+406,P80003338,Rhode Island,RI,Obama; Barack,,296571,,0.63
+407,P80002801,Rhode Island,RI,McCain; John,,165391,,0.35
+408,P20000527,Rhode Island,RI,Nader; Ralph,,4829,,0.01
+409,P80005580,Rhode Island,RI,Barr; Bob,,1382,,0
+410,P80004930,Rhode Island,RI,McKinney; Cynthia,,797,,0
+411,P80005499,Rhode Island,RI,Baldwin; Chuck,,675,,0
+412,n/a,Rhode Island,RI,Scattered ,,667,,0
+413,P00003392,Rhode Island,RI,Clinton; Hillary,,655,,0
+414,P80000748,Rhode Island,RI,Paul; Ron,,472,,0
+415,P80005572,Rhode Island,RI,La Riva; Gloria,,122,,0
+416,n/a,Rhode Island,RI,No Vote;,,43,,0
+417,P80003478,Rhode Island,RI,Huckabee; Mike,,34,,0
+418,P80003353,Rhode Island,RI,Romney; Mitt,,25,,0
+419,P80000912,Rhode Island,RI,Gore; Al,,15,,0
+420,P60003050,Rhode Island,RI,Powell; Colin,,14,,0
+421,n/a,Rhode Island,RI,Mouse; Mickey,,11,,0
+422,n/a,Rhode Island,RI,None of Above;,,11,,0
+423,n/a,Rhode Island,RI,Colbert; Stephen,,8,,0
+424,n/a,Rhode Island,RI,Jesus;,,7,,0
+425,P80004740,Rhode Island,RI,Bloomberg; Michael,,6,,0
+426,P20000642,Rhode Island,RI,Clinton; Bill,,6,,0
+427,n/a,Rhode Island,RI,Cianci; Buddy,,5,,0
+428,P60003076,Rhode Island,RI,Keyes; Alan,,5,,0
+429,P40002545,Rhode Island,RI,Kucinich; Dennis,,5,,0
+430,n/a,Rhode Island,RI,Plumber; Joe the,,5,,0
+431,n/a,Rhode Island,RI,Ventura; Jessie,,5,,0
+432,n/a,Rhode Island,RI,,Total State Votes: ,471766,471766,
+433,P80002801,South Carolina,SC,McCain; John,,1034896,,0.54
+434,P80003338,South Carolina,SC,Obama; Barack,,862449,,0.45
+435,P80005580,South Carolina,SC,Barr; Bob,,7283,,0
+436,P80005499,South Carolina,SC,Baldwin; Chuck,,6827,,0
+437,P20000527,South Carolina,SC,Nader; Ralph,,5053,,0
+438,P80004930,South Carolina,SC,McKinney; Cynthia,,4461,,0
+439,n/a,South Carolina,SC,,Total State Votes: ,1920969,1920969,
+440,P80002801,South Dakota,SD,McCain; John,,203054,,0.53
+441,P80003338,South Dakota,SD,Obama; Barack,,170924,,0.45
+442,P20000527,South Dakota,SD,Nader; Ralph,,4267,,0.01
+443,P80005499,South Dakota,SD,Baldwin; Chuck,,1895,,0
+444,P80005580,South Dakota,SD,Barr; Bob,,1835,,0
+445,n/a,South Dakota,SD,,Total State Votes: ,381975,381975,
+446,P80002801,Tennessee,TN,McCain; John,,1479178,,0.57
+447,P80003338,Tennessee,TN,Obama; Barack,,1087437,,0.42
+448,P20000527,Tennessee,TN,Nader; Ralph,,11560,,0
+449,P80005580,Tennessee,TN,Barr; Bob,,8547,,0
+450,P80005499,Tennessee,TN,Baldwin; Chuck,,8191,,0
+451,P80004930,Tennessee,TN,McKinney; Cynthia,,2499,,0
+452,P80005275,Tennessee,TN,Moore; Brian,,1326,,0
+453,n/a,Tennessee,TN,Jay; Charles,,1011,,0
+454,n/a,Tennessee,TN,,Total State Votes: ,2599749,2599749,
+455,P80002801,Texas,TX,McCain; John,,4479328,,0.55
+456,P80003338,Texas,TX,Obama; Barack,,3528633,,0.44
+457,P80005580,Texas,TX,Barr; Bob,,56116,,0.01
+458,P20000527,Texas,TX,Nader; Ralph,,5751,,0
+459,P80005499,Texas,TX,Baldwin; Chuck,,5708,,0
+460,P60003076,Texas,TX,Keyes; Alan,,895,,0
+461,P80004930,Texas,TX,McKinney; Cynthia,,909,,0
+462,n/a,Texas,TX,Hill; Thaddaus,,216,,0
+463,P80005275,Texas,TX,Moore; Brian,,135,,0
+464,P80005119,Texas,TX,Allen; Jonathan,,104,,0
+465,n/a,Texas,TX,,Total State Votes: ,8077795,8077795,
+466,P80002801,Utah,UT,McCain; John,,596030,,0.63
+467,P80003338,Utah,UT,Obama; Barack,,327670,,0.34
+468,P80005499,Utah,UT,"Baldwin; Charles O. ""Chuck""",,12012,,0.01
+469,P20000527,Utah,UT,Nader; Ralph,,8416,,0.01
+470,P80005580,Utah,UT,Barr; Bob,,6966,,0.01
+471,P80004930,Utah,UT,McKinney; Cynthia,,982,,0
+472,P80005572,Utah,UT,La Riva; Gloria,,262,,0
+473,P60003076,Utah,UT,Keyes; Alan,,25,,0
+474,n/a,Utah,UT,Moore; Frank,,3,,0
+475,P80005119,Utah,UT,Allen; Jonathan,,2,,0
+476,n/a,Utah,UT,Jay; Charles,,1,,0
+477,n/a,Utah,UT,Sponheim; David Jon,,1,,0
+478,n/a,Utah,UT,,Total State Votes: ,952370,952370,
+479,P80003338,Vermont,VT,Obama; Barack,,219262,,0.67
+480,P80002801,Vermont,VT,McCain; John,,98974,,0.3
+481,P20000527,Vermont,VT,Nader; Ralph,,3339,,0.01
+482,n/a,Vermont,VT,Scattered ,,1398,,0
+483,P80005580,Vermont,VT,Barr; Bob,,1067,,0
+484,P80005499,Vermont,VT,Baldwin; Chuck,,500,,0
+485,P80005481,Vermont,VT,Calero; Roger,,150,,0
+486,P80005572,Vermont,VT,La Riva; Gloria,,149,,0
+487,P80005275,Vermont,VT,Moore; Brian,,141,,0
+488,P80004930,Vermont,VT,McKinney; Cynthia,,66,,0
+489,n/a,Vermont,VT,,Total State Votes: ,325046,325046,
+490,P80003338,Virginia,VA,Obama; Barack,,1959532,,0.53
+491,P80002801,Virginia,VA,McCain; John,,1725005,,0.46
+492,P20000527,Virginia,VA,Nader; Ralph,,11483,,0
+493,P80005580,Virginia,VA,Barr; Bob,,11067,,0
+494,P80005499,Virginia,VA,Baldwin; Chuck,,7474,,0
+495,n/a,Virginia,VA,Scattered ,,6355,,0
+496,P80004930,Virginia,VA,McKinney; Cynthia,,2344,,0
+497,n/a,Virginia,VA,,Total State Votes: ,3723260,3723260,
+498,P80003338,Washington,WA,Obama; Barack,,1750848,,0.58
+499,P80002801,Washington,WA,McCain; John,,1229216,,0.4
+500,P20000527,Washington,WA,Nader; Ralph,,29489,,0.01
+501,P80005580,Washington,WA,Barr; Bob,,12728,,0
+502,P80005499,Washington,WA,Baldwin; Chuck,,9432,,0
+503,P80004930,Washington,WA,McKinney; Cynthia,,3819,,0
+504,P80005572,Washington,WA,La Riva; Gloria,,705,,0
+505,P60004454,Washington,WA,Harris; James E.,,641,,0
+506,n/a,Washington,WA,,Total State Votes: ,3036878,3036878,
+507,P80002801,West Virginia,WV,McCain; John Sidney; III,,397466,,0.56
+508,P80003338,West Virginia,WV,Obama; Barack Hussein,,303857,,0.43
+509,P20000527,West Virginia,WV,Nader; Ralph,,7219,,0.01
+510,P80005499,West Virginia,WV,Baldwin; Charles Obadiah,,2465,,0
+511,P80004930,West Virginia,WV,McKinney; Cynthia Ann,,2355,,0
+512,n/a,West Virginia,WV,Claus; Santa,,59,,0
+513,n/a,West Virginia,WV,Rice; David L.,,18,,0
+514,P80003528,West Virginia,WV,Allen; Donald K.,,4,,0
+515,P80005002,West Virginia,WV,Brown; Robert,,3,,0
+516,P80004419,West Virginia,WV,"Railey; Charles G. ""Bud""",,3,,0
+517,n/a,West Virginia,WV,Hobbs; Ron,,1,,0
+518,n/a,West Virginia,WV,Moore; Frank,,1,,0
+519,n/a,West Virginia,WV,,Total State Votes: ,713451,713451,
+520,P80003338,Wisconsin,WI,Obama; Barack,,1677211,,0.56
+521,P80002801,Wisconsin,WI,McCain; John,,1262393,,0.42
+522,P20000527,Wisconsin,WI,Nader; Ralph,,17605,,0.01
+523,P80005580,Wisconsin,WI,Barr; Bob,,8858,,0
+524,n/a,Wisconsin,WI,Scattered ,,6521,,0
+525,P80005499,Wisconsin,WI,Baldwin; Chuck,,5072,,0
+526,P80004930,Wisconsin,WI,McKinney; Cynthia,,4216,,0
+527,n/a,Wisconsin,WI,Wamboldt; Jeffrey J.,,764,,0
+528,P80005275,Wisconsin,WI,Moore; Brian,,540,,0
+529,P80005572,Wisconsin,WI,La Riva; Gloria,,237,,0
+530,n/a,Wisconsin,WI,,Total State Votes: ,2983417,2983417,
+531,P80002801,Wyoming,WY,McCain; John,,164958,,0.65
+532,P80003338,Wyoming,WY,Obama; Barack,,82868,,0.33
+533,P20000527,Wyoming,WY,Nader; Ralph,,2525,,0.01
+534,P80005580,Wyoming,WY,Barr; Bob,,1594,,0.01
+535,n/a,Wyoming,WY,Scattered ,,1521,,0.01
+536,P80005499,Wyoming,WY,Baldwin; Chuck,,1192,,0
+537,n/a,Wyoming,WY,,Total State Votes: ,254658,254658,
